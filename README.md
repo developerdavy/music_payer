@@ -1,3 +1,9 @@
+Welcome to the simple android audio player launcher
+
+![image alt](https://github.com/developerdavy/music_payer/blob/cfbaf5324e439d2cb8eebaa87707904438510c50/launcher.jpg)
+
+
+
 This a simple audio player android appliction.
 
 This is a music player music list fetched from local storage.
